@@ -29,7 +29,7 @@ Calculated using **DAX** in Power BI:
 
 ## 📂 Files in this Repository
 - `E-Commerce_Dashboard.pbix`: The interactive Power BI dashboard file.
-- `samplesuperstore_2.xlsx`: The cleaned dataset used for the analysis.
+- `samplesuperstore.xlsx`: The cleaned dataset used for the analysis.
 - `Dashboard.png`: Screenshot of the final dashboard.
 
 ## 🚀 How to Use
