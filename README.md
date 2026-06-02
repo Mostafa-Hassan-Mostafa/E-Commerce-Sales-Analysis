@@ -4,7 +4,7 @@
 This project focuses on analyzing an e-commerce dataset (Superstore) to extract actionable business insights. The goal was to transform raw sales data into a comprehensive, interactive dashboard that helps stakeholders track performance, identify trends, and make data-driven decisions.
 
 ## 🖼️ Dashboard Preview
-![E-Commerce Dashboard](image_57c828.jpg)
+![E-Commerce Dashboard](Dashboard.png)
 
 ## 🧹 Data Preparation & Cleaning (Excel)
 Before building the dashboard, the raw data underwent a thorough cleaning process using **Microsoft Excel**. Key steps included:
